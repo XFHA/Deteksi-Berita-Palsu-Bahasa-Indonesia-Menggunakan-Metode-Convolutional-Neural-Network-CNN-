@@ -1,0 +1,10 @@
+{
+  "accuracy": 1.0,
+  "total_samples": 40,
+  "fake_count": 20,
+  "real_count": 20,
+  "max_features": 5000,
+  "max_length": 50,
+  "dataset_path": "sample_dataset",
+  "trained_at": "2026-06-13T02:48:08.894430"
+}
